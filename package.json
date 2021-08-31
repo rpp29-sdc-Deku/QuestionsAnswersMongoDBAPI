@@ -4,7 +4,7 @@
   "description": "======= An API for the Questions and Answers Component of the FEC front end built with MongoDB",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx nodemon server/server.js"
   },
   "repository": {
     "type": "git",
